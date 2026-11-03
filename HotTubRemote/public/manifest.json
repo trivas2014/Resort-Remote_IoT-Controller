@@ -1,0 +1,15 @@
+{
+  "name": "Resort Remote",
+  "short_name": "Resort Remote",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
